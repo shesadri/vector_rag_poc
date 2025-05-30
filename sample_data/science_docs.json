@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sci_001",
+    "title": "Climate Change Impacts on Biodiversity and Ecosystem Services",
+    "content": "Climate change is fundamentally altering Earth's ecosystems, affecting species distribution, migration patterns, and ecosystem services. Research shows that rising temperatures, changing precipitation patterns, and extreme weather events are causing habitat loss, species extinction, and disruption of ecological networks. Ecosystem services such as pollination, water purification, and carbon sequestration are being compromised. Conservation strategies include protected area expansion, corridor creation, assisted migration, and ecosystem restoration. Urgent action is needed to prevent irreversible biodiversity loss.",
+    "category": "science",
+    "tags": ["climate-change", "biodiversity", "ecosystem", "conservation"],
+    "metadata": {
+      "author": "Dr. Maria Santos",
+      "source": "Nature Climate Change",
+      "journal_impact": "high",
+      "reading_time": "11 minutes"
+    }
+  },
+  {
+    "id": "sci_002",
+    "title": "Quantum Computing: From Theory to Practical Applications",
+    "content": "Quantum computing leverages quantum mechanical phenomena like superposition and entanglement to process information in fundamentally new ways. Unlike classical bits, quantum bits (qubits) can exist in multiple states simultaneously, enabling exponential computational speedups for certain problems. Current applications include cryptography, optimization, drug discovery, and financial modeling. Challenges include quantum decoherence, error correction, and scalability. Leading companies and research institutions are making progress toward fault-tolerant quantum computers that could revolutionize computing.",
+    "category": "science",
+    "tags": ["quantum-computing", "physics", "technology", "research"],
+    "metadata": {
+      "author": "Prof. Robert Kim",
+      "source": "Physical Review Quantum",
+      "journal_impact": "high",
+      "reading_time": "13 minutes"
+    }
+  },
+  {
+    "id": "sci_003",
+    "title": "Gene Therapy Advances in Treating Genetic Disorders",
+    "content": "Gene therapy has emerged as a promising treatment for genetic disorders, offering the potential to correct defective genes at their source. Recent advances include CRISPR-Cas9 gene editing, viral vector delivery systems, and base editing techniques. Successful treatments have been developed for conditions like severe combined immunodeficiency (SCID), sickle cell disease, and inherited blindness. Challenges include delivery efficiency, immune responses, off-target effects, and ethical considerations. Ongoing research focuses on improving safety, expanding applications, and reducing costs.",
+    "category": "science",
+    "tags": ["gene-therapy", "genetics", "medicine", "biotechnology"],
+    "metadata": {
+      "author": "Dr. Emily Watson",
+      "source": "Cell Gene Therapy",
+      "journal_impact": "high",
+      "reading_time": "16 minutes"
+    }
+  }
+]

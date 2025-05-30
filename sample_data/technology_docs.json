@@ -1,0 +1,41 @@
+[
+  {
+    "id": "tech_001",
+    "title": "Introduction to Machine Learning Algorithms",
+    "content": "Machine learning algorithms are computational methods that enable computers to learn patterns from data without being explicitly programmed. The main categories include supervised learning (classification and regression), unsupervised learning (clustering and dimensionality reduction), and reinforcement learning. Popular algorithms include linear regression, decision trees, random forests, support vector machines, neural networks, and k-means clustering. Each algorithm has its strengths and is suitable for different types of problems and data characteristics.",
+    "category": "technology",
+    "tags": ["machine-learning", "algorithms", "data-science", "AI"],
+    "metadata": {
+      "author": "Dr. Sarah Chen",
+      "source": "ML Research Journal",
+      "difficulty": "intermediate",
+      "reading_time": "8 minutes"
+    }
+  },
+  {
+    "id": "tech_002",
+    "title": "Cloud Computing Best Practices for Enterprise",
+    "content": "Cloud computing has revolutionized how enterprises manage their IT infrastructure. Key best practices include implementing proper security measures with multi-factor authentication, using Infrastructure as Code (IaC) for consistent deployments, establishing cost monitoring and optimization strategies, designing for scalability and fault tolerance, and maintaining data backup and disaster recovery plans. Popular cloud platforms include AWS, Azure, and Google Cloud Platform, each offering unique services and pricing models.",
+    "category": "technology",
+    "tags": ["cloud-computing", "enterprise", "infrastructure", "security"],
+    "metadata": {
+      "author": "Mike Rodriguez",
+      "source": "Enterprise Tech Guide",
+      "difficulty": "advanced",
+      "reading_time": "12 minutes"
+    }
+  },
+  {
+    "id": "tech_003",
+    "title": "Microservices Architecture Patterns",
+    "content": "Microservices architecture breaks down monolithic applications into smaller, independent services. Key patterns include API Gateway for routing, Circuit Breaker for fault tolerance, Service Discovery for dynamic service location, Event Sourcing for data consistency, and CQRS for read/write separation. Implementation requires containerization with Docker, orchestration with Kubernetes, service mesh for communication, and distributed tracing for monitoring. Benefits include improved scalability, technology diversity, and team autonomy.",
+    "category": "technology",
+    "tags": ["microservices", "architecture", "patterns", "scalability"],
+    "metadata": {
+      "author": "Alex Thompson",
+      "source": "Software Architecture Quarterly",
+      "difficulty": "advanced",
+      "reading_time": "15 minutes"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "biz_001",
+    "title": "Digital Transformation Strategy for Traditional Industries",
+    "content": "Digital transformation is no longer optional for traditional industries. Successful transformation requires a comprehensive strategy that includes technology modernization, process automation, data-driven decision making, and cultural change management. Key components include cloud migration, customer experience digitization, supply chain optimization, and workforce reskilling. Industries like manufacturing, healthcare, finance, and retail are leveraging IoT, AI, and analytics to create competitive advantages and improve operational efficiency.",
+    "category": "business",
+    "tags": ["digital-transformation", "strategy", "innovation", "change-management"],
+    "metadata": {
+      "author": "Jennifer Walsh",
+      "source": "Harvard Business Review",
+      "industry": "cross-industry",
+      "reading_time": "10 minutes"
+    }
+  },
+  {
+    "id": "biz_002",
+    "title": "Sustainable Business Practices and ESG Reporting",
+    "content": "Environmental, Social, and Governance (ESG) criteria have become central to business strategy and investor decisions. Companies are implementing sustainable practices including carbon footprint reduction, circular economy principles, ethical supply chain management, and diverse hiring practices. ESG reporting frameworks like GRI, SASB, and TCFD provide standards for measuring and communicating sustainability performance. Benefits include improved brand reputation, risk mitigation, cost savings, and access to sustainable financing.",
+    "category": "business",
+    "tags": ["sustainability", "ESG", "reporting", "corporate-responsibility"],
+    "metadata": {
+      "author": "David Kumar",
+      "source": "Sustainability Business Journal",
+      "industry": "finance",
+      "reading_time": "12 minutes"
+    }
+  },
+  {
+    "id": "biz_003",
+    "title": "Market Analysis: Global E-commerce Trends 2024",
+    "content": "The global e-commerce market continues to grow rapidly, driven by mobile commerce, social commerce, and cross-border trade. Key trends include personalization through AI and machine learning, voice commerce, augmented reality shopping experiences, subscription-based models, and sustainable packaging. Emerging markets show the highest growth rates, while established markets focus on omnichannel experiences and customer retention. Challenges include supply chain disruptions, cybersecurity threats, and regulatory compliance across different regions.",
+    "category": "business",
+    "tags": ["e-commerce", "market-analysis", "trends", "retail"],
+    "metadata": {
+      "author": "Lisa Chang",
+      "source": "Global Commerce Report",
+      "industry": "retail",
+      "reading_time": "14 minutes"
+    }
+  }
+]
